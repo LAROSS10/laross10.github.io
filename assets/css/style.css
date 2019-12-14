@@ -1,0 +1,171 @@
+#container { position: relative;}
+
+.header { margin: 0;
+    margin-top: 10PX;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+background-color: #4aaaa5;
+Height: 50px;
+Width: 150px;
+Padding: 20PX;
+font-family: 'Times New Roman', Times, serif;}
+h1 {
+  float: left;
+margin: 0;
+Padding: 20px;
+Border: 20px;
+}
+
+#abc {float: right;
+text: 10px;
+}
+
+#body { margin-right: 10px;
+    margin-left: 10px;
+
+max-width: 960px;
+max-height: 960x;
+
+    padding-right: 10px;
+    padding-left: 10px;
+
+margin-top: auto
+margin-bottom; align-self: auto;
+
+background-color: palevioletred;
+border-color: #dddddd;
+border-style: solid;
+background-image: url(spiration-light.png);
+background-position: 100%;}
+
+   
+
+#main-content {
+   padding: 50PX;
+   margin: 60PX;
+   position: relative;
+
+
+
+background-color: white;
+border-color: #dddddd;
+border-style: solid;
+background-image: url(spiration-light.png);
+background-position: 100%;
+}
+
+#about-me {height: 10px;
+width: 150px;
+padding: 50px;
+margin: 100px;
+font-family: 'Times New Roman', Times, serif;
+position: relative;
+top: 0;
+}
+
+#main-content,
+#bio-image {float: left;}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+
+
+
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .wrapper {
+    min-height: 100%;
+  
+    /* Equal to height of footer */
+    /* But also accounting for potential margin-bottom of last child */
+    margin-bottom: -50px;
+  }
+  .footer,
+  .push {
+    height: 20px; width: 100%;
+  }
+
+
+  footer {
+    padding: 20px;    
+    background: rgb(136, 129, 146);
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+    bottom: 0;
+    left: 450px;
+    width: 960px;
+  }
+ .link {
+   float: right}
+
+   h1 {
+     margin:-10px;
+        padding: 30Px;
+    background-color: rgb(136,129,146);
+    display: inlin;
+    font: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+    .link {
+        float: right;
+        display: inline;
+    
+    }
+    
+    .input {
+    margin-bottom: 20px;
+    padding: 3px;
+    width: 600px;
+    }
+    
+    #container {
+      position: relative;
+    margin:0 auto;
+    text-align: left;
+    width: 960px;
+    Height: 960px;
+    background-color: tan;
+    background-image: url("spiration-light.png")
+    }
+    
+    .main-section {
+      position: absolute;
+      top: 50px;
+      left: 100PX;
+        width: 620px;
+        background-color:white;
+        margin: 40px;
+        border: 1px;
+        border-style: solid;
+        padding: 30PX;
+    }
+
+    button{
+       background-color: rgb(136,129,146);
+      }
+    
+    #message {
+        margin-bottom: 20px;
+        
+        width: 600px;
+        Height: 150px;
+        }
+    
+       
+        
+    }
+  
+
+    
+
+      
+    
